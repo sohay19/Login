@@ -77,6 +77,7 @@
 		CFD1B365298116BD00167A80 /* SocialLogin */ = {
 			isa = PBXGroup;
 			children = (
+				CFD1B3982981584F00167A80 /* UserData.swift */,
 				CFD1B366298116BD00167A80 /* AppDelegate.swift */,
 				CFD1B368298116BD00167A80 /* SceneDelegate.swift */,
 				CFD1B36C298116BD00167A80 /* Main.storyboard */,
@@ -86,7 +87,6 @@
 				CFD1B36F298116C000167A80 /* Assets.xcassets */,
 				CFD1B371298116C000167A80 /* LaunchScreen.storyboard */,
 				CFD1B374298116C000167A80 /* Info.plist */,
-				CFD1B3982981584F00167A80 /* UserData.swift */,
 			);
 			path = SocialLogin;
 			sourceTree = "<group>";
