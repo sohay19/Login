@@ -46,6 +46,7 @@ extension MyPageViewController {
     }
 }
 
+//MARK: - Event
 extension MyPageViewController {
     // 로그아웃 버튼 클릭
     @IBAction func clickLogout(_ sender:Any) {

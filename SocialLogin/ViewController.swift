@@ -91,6 +91,7 @@ extension ViewController {
     }
 }
 
+//MARK: - Event
 extension ViewController {
     @IBAction func clickGoogleLogin(_ sender:Any) {
         googleLogin()
